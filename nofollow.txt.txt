@@ -1,0 +1,32 @@
+       <div class="sajdbar"> 
+          	      
+          	    	<ul>
+                        <li><a rel="nofollow" href="http://...">KONTAKT 1</a></li>
+                        <li><a rel="nofollow" href="http://...">KONTAKT 2</a></li>
+                        <li><a rel="nofollow" href="http://...">KONTAKT 3</a></li>
+                        <li><a rel="nofollow" href="http://...">KONTAKT 4</a></li>
+                    </ul>
+
+          	
+          </div>
+
+
+-------------------------------------------------------------------------------------------------
+
+--------#sajdbar {
+    	display: inline-block;
+    	vertical-align: top;
+    	margin-left: 20px;
+    	width:  250px;
+    }
+
+    #sajdbar > ul {
+    	list-style: none;
+    }
+
+    #sajdbar > ul > li > a {
+    	text-decoration: none;
+    	line-height: 24px;
+    	color: #777;
+    }
+      

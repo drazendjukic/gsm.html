@@ -1,0 +1,40 @@
+     <section>
+                                <table border="1" >
+                                  <caption>Tv frekvencije-Mhz i valna duzina</caption>
+                                    <tr>
+                                        <td>BAND</td>
+                                        <td>PODRUCJE</td>
+                                        <td>KANAL</td>
+                                        <td>PODRUCJE KANALA Mhz</td>
+                                        <td>SLIKA Mhz</td>
+                                        <td>TON Mhz</td>
+                                        <td>SREDNJA VALNA DUZINA U m</td>
+                                    </tr>
+                                    <tr>
+                                      <td>VHF</td>
+                                      <td>F 1</td>
+                                      <td>2</td>
+                                       <td>47-54</td>
+                                      <td>48,25</td>
+                                      <td>53,75</td>
+                                      <td>5,9</td>
+                                    </tr>
+                                    <tr>
+                                      <td>VHF</td>
+                                      <td>F 1</td>
+                                      <td>3</td>
+                                       <td>54-61</td>
+                                      <td>55,25</td>
+                                      <td>60,75</td>
+                                      <td>5,2</td>
+                                    </tr>
+                                      <tr>
+                                      <td>VHF</td>
+                                      <td>F 1</td>
+                                      <td>4</td>
+                                       <td>61-68</td>
+                                      <td>62,25</td>
+                                      <td>67,75</td>
+                                      <td>4,7</td>
+                                    </tr>
+                  </section>
